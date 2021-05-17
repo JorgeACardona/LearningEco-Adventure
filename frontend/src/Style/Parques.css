@@ -1,0 +1,32 @@
+#elemento{
+    background-color: white;
+    margin: 5%;
+    
+    
+}
+
+#titulo{
+    font-weight: bold;
+    padding-top: 5%;
+}
+
+#Informacion{
+    margin: 3%;
+    font-size: 150%;
+    
+}
+
+#imagen{
+    width: 25%;
+    height: 25%;
+    text-align: center;
+    margin-left: 37%;
+}
+
+#sep{
+    color:white;
+}
+
+#video{
+    text-align: center;
+}
